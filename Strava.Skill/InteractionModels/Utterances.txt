@@ -1,0 +1,3 @@
+﻿GetLastActivityIntent when was my last activity
+GetLastActivityIntent when was my last ride
+GetLastActivityIntent when was my last run
